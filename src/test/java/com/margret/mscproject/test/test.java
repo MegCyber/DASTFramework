@@ -18,7 +18,6 @@ import org.apache.commons.io.FileUtils;
 
 public class test {
 
-
         private WebDriver driver;
         private Target target;
         private static ClientApi zap;
