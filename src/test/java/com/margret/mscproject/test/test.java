@@ -14,8 +14,6 @@ import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 
-
-
 public class test {
 
         private WebDriver driver;
@@ -54,7 +52,6 @@ public class test {
 //                target.setPort(3000);
 //                zap.context.setContextInScope("Default Context", target);
 //                zap.spider.scan(target.getAddress(), target.getPort());
-
 
         }
 
