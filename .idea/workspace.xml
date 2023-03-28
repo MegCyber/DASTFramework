@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9d7b691-bf78-4b72-b824-38c48d396f05" name="Changes" comment="first attempt">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/margret/mscproject/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/margret/mscproject/test/test.java" afterDir="false" />
+    <list default="true" id="a9d7b691-bf78-4b72-b824-38c48d396f05" name="Changes" comment="first attempt2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680020028030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first attempt">
+      <created>1680021567780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680021567780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first attempt">
+      <created>1680021677444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680021677444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first attempt2">
+      <created>1680021832328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680021832328</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="first attempt" />
+    <MESSAGE value="first attempt2" />
+    <option name="LAST_COMMIT_MESSAGE" value="first attempt2" />
   </component>
 </project>

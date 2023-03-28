@@ -32,8 +32,6 @@ public class StepDef {
     @Before
     public void setUp() throws ClientApiException {
         // Start OWASP ZAP proxy
-
-
         String zapServerURL = ZAP_PROXY_HOST + ":" + ZAP_PROXY_PORT;
         Proxy proxy = new Proxy();
         proxy.setHttpProxy(zapServerURL);
