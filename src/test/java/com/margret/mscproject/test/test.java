@@ -54,13 +54,11 @@ public class test {
 //                zap.spider.scan(target.getAddress(), target.getPort());
 
         }
-
         @After
         public void tearDown() {
            if (driver != null) {
                driver.quit();
            }
-
             try {
                 String report = new String(zap.core.htmlreport());
                 FileUtils.writeStringToFile(FileUtils.getFile("./zap-report.html"), report, "UTF-8");
